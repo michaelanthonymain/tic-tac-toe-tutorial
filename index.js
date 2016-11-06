@@ -56,5 +56,3 @@ ReactDOM.render(
     <App />,
     document.getElementById('root')
 );
-
-setInterval(tick, 1000);
